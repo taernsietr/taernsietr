@@ -1,21 +1,20 @@
-<h2 align="center" style="font-family: 'Courier New';">Olá, Mundo! Meu nome é Thalles.</h2>
-
-<h3 align="center" style="font-family: 'Courier New';">👾 Bio</h3>
-
+<h2 style="font-family: 'Courier New';">Olá, Mundo! Meu nome é Thalles.</h2>
+<h3 style="font-family: 'Courier New';">👾 Bio</h3>
 <p align="justify">Atualmente, estou cursando Sistemas de Informação na Universidade Federal Rural do Rio de Janeiro, atuo como estagiário de desenvolvimento na <a href="https://www.blu.com.br">Blu</a>, e assessor de projetos na empresa júnior<a href="https://www.signaljunior.com.br">Signal Jr.</a></p>
 <p align="justify">Sou apaixonado por tecnologia, código aberto e línguas humanas.</p>  
 <p align="right">Ah, e um grande de um nerd 😬</p>
+<hr>
 
-<h3 align="center" style="font-family: 'Courier New';">📞 Contato</h3>
-
+<h3 style="font-family: 'Courier New';">📞 Contato</h3>
 <div align="center">
   <a href = "mailto:ts.rodr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thalles-de-souza-rodrigues-92941518a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<hr>
 
-<h3 align="center" style="font-family: courier-new">💻 Tecnologias</h3>
+<h3 style="font-family: courier-new">💻 Tecnologias</h3>
 <div align="center" style="display: flex; flex-direction: row">
-  <div style="display: inline-block;">
+  <div>
     <img align="center" style="width: 30px;" alt="Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
     <img align="center" style="width: 30px;" alt="Vim" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg">
     <img align="center" style="width: 30px;" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
@@ -31,7 +30,7 @@
     <img align="center" style="width: 30px;" alt="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align="center" style="width: 30px;" alt="Processing" src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-plain.svg">
   </div>
-  <div style="display: inline-block;">
+  <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taernsietr&layout=compact&theme=gruvbox"/>
   </div>
 </div>
