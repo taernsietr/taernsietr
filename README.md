@@ -1,18 +1,17 @@
-
 ## Olá, Mundo! Meu nome é Thalles.
 
-### 👾 Bio 👾
+### 👾 - Bio
 
-Sou aluno de Sistemas de Informação na Universidade Federal Rural do Rio de Janeiro, estagiário de desenvolvimento na [Blu](https://www.blu.com.br), assessor de projetos na [Signal](https://www.signaljunior.com.br), e em geral um apaixonado por tecnologia, código aberto e línguas humanas.  
+<p>Sou aluno de Sistemas de Informação na Universidade Federal Rural do Rio de Janeiro, estagiário de desenvolvimento na [Blu](https://www.blu.com.br), assessor de projetos na [Signal](https://www.signaljunior.com.br), e em geral um apaixonado por tecnologia, código aberto e línguas humanas.<p>  
 Ah, e um grande de um nerd 😬.
 
-### 📞 Contato 📞
+### 📞 - Contato
 
 
 
-### 💻 Tecnologias 💻
+### 💻 - Tecnologias
 
-<div id="language-badges" style="display: inline-block">
+<div id="language-badges" style="display: inline-block; padding: auto; background-color: #DDD; border-radius: 15px;">
   <img align="center" style="width: 30px;" alt="Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
   <img align="center" style="width: 30px;" alt="Vim" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg">
   <img align="center" style="width: 30px;" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
@@ -28,5 +27,7 @@ Ah, e um grande de um nerd 😬.
   <img align="center" style="width: 30px;" alt="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" style="width: 30px;" alt="Processing" src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-plain.svg">
 </div>
+
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taernsietr)](https://github.com/taernsietr/github-readme-stats)
