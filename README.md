@@ -14,7 +14,7 @@
 </div>
 
 <h3 align="center" style="font-family: courier-new">💻 Tecnologias</h3>
-<div id="language-badges" style="display: inline-block; padding: auto; background-color: #DDD; border-radius: 15px;">
+<div id="language-badges" style="display: inline-block; background-color: '#DDD'; border: 1px solid white; border-radius: 15px;">
   <img align="center" style="width: 30px;" alt="Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
   <img align="center" style="width: 30px;" alt="Vim" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg">
   <img align="center" style="width: 30px;" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
