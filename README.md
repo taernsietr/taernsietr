@@ -13,10 +13,10 @@
 <hr>
 
 <h3 style="font-family: courier-new">💻 Tecnologias</h3>
-<p style="font-size: 8px"><i>(ou: coisas que ou eu tenho alguma familiaridade ou interesse de aprender e utilizar)</i></p>
+<sub><i>(ou: coisas que ou eu tenho alguma familiaridade ou interesse de aprender e utilizar)</i></sub>
 <div>
   <img align="center" style="width: 30px;" alt="I use Arch, BTW" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
-  <img align="center" style="width: 30px;" alt="Microsoft Windows" src="https://github.com/devicons/devicon/blob/master/icons/windows/windows-plain.svg">
+  <img align="center" style="width: 30px;" alt="Microsoft Windows" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
   <br>
   <img align="center" style="width: 30px;" alt="Vim" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg">
   <br>
