@@ -12,7 +12,7 @@ LinkedIn: [linkedin.com/in/thalles-de-souza-rodrigues-92941518a/]
 
 ### 💻 Tecnologias 💻
 
-<div id="language-badges" style="display: flex; justify-content: space-between;">
+<div id="language-badges" style="display: flex; justify-content: space-between; flex-direction: row">
   <div><img style="width: 30px; flex: 1;" alt="Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg"></div>
   <div><img style="width: 30px; flex: 1;" alt="Vim" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg"></div>
   <div><img style="width: 30px; flex: 1;" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"></div>
