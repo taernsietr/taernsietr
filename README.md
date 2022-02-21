@@ -14,7 +14,7 @@
 </div>
 
 <h3 align="center" style="font-family: courier-new">💻 Tecnologias</h3>
-<div align="center">
+<div align="center" style="display: flex; flex-direction: row">
   <div style="display: inline-block;">
     <img align="center" style="width: 30px;" alt="Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
     <img align="center" style="width: 30px;" alt="Vim" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg">
