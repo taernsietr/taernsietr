@@ -6,16 +6,20 @@
 <hr>
 
 <h3 style="font-family: 'Courier New';">📞 Contato</h3>
-<div align="center">
+<div>
   <a href = "mailto:ts.rodr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thalles-de-souza-rodrigues-92941518a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <hr>
 
 <h3 style="font-family: courier-new">💻 Tecnologias</h3>
+<p style="font-size: 8px"><i>(ou: coisas que ou eu tenho alguma familiaridade ou interesse de aprender e utilizar)</i></p>
 <div>
-  <img align="center" style="width: 30px;" alt="Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
+  <img align="center" style="width: 30px;" alt="I use Arch, BTW" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
+  <img align="center" style="width: 30px;" alt="Microsoft Windows" src="https://github.com/devicons/devicon/blob/master/icons/windows/windows-plain.svg">
+  <br>
   <img align="center" style="width: 30px;" alt="Vim" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg">
+  <br>
   <img align="center" style="width: 30px;" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
   <img align="center" style="width: 30px;" alt="Rust" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg">
   <img align="center" style="width: 30px;" alt="Ruby" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg">
@@ -25,6 +29,7 @@
   <img align="center" style="width: 30px;" alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img align="center" style="width: 30px;" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   <img align="center" style="width: 30px;" alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
+  <br>
   <img align="center" style="width: 30px;" alt="Rails" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg">
   <img align="center" style="width: 30px;" alt="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" style="width: 30px;" alt="Processing" src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-plain.svg">
