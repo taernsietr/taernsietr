@@ -13,25 +13,23 @@
 <hr>
 
 <h3 style="font-family: courier-new">💻 Tecnologias</h3>
-<div align="center" style="display: flex; flex-direction: row">
-  <div>
-    <img align="center" style="width: 30px;" alt="Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
-    <img align="center" style="width: 30px;" alt="Vim" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg">
-    <img align="center" style="width: 30px;" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
-    <img align="center" style="width: 30px;" alt="Rust" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg">
-    <img align="center" style="width: 30px;" alt="Ruby" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg">
-    <img align="center" style="width: 30px;" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
-    <img align="center" style="width: 30px;" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
-    <img align="center" style="width: 30px;" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-    <img align="center" style="width: 30px;" alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
-    <img align="center" style="width: 30px;" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
-    <img align="center" style="width: 30px;" alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
-    <img align="center" style="width: 30px;" alt="Rails" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg">
-    <img align="center" style="width: 30px;" alt="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-    <img align="center" style="width: 30px;" alt="Processing" src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-plain.svg">
-  </div>
-  <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taernsietr&layout=compact&theme=gruvbox"/>
-  </div>
+<div>
+  <img align="center" style="width: 30px;" alt="Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
+  <img align="center" style="width: 30px;" alt="Vim" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg">
+  <img align="center" style="width: 30px;" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
+  <img align="center" style="width: 30px;" alt="Rust" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg">
+  <img align="center" style="width: 30px;" alt="Ruby" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg">
+  <img align="center" style="width: 30px;" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
+  <img align="center" style="width: 30px;" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
+  <img align="center" style="width: 30px;" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+  <img align="center" style="width: 30px;" alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+  <img align="center" style="width: 30px;" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+  <img align="center" style="width: 30px;" alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
+  <img align="center" style="width: 30px;" alt="Rails" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg">
+  <img align="center" style="width: 30px;" alt="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" style="width: 30px;" alt="Processing" src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-plain.svg">
 </div>
-
+<hr>
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taernsietr&layout=compact&theme=gruvbox"/>
+</div>
