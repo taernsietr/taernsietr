@@ -1,6 +1,6 @@
 ## Olá, Mundo! Meu nome é Thalles.
-<div style="height: 300px;" align="center">
-  <img src="https://raw.githubusercontent.com/taernsietr/taernsietr/testing/ascii-profile.png" alt="cursed ascii profile pic">
+<div align="center">
+  <img style="height: 300px;" src="https://raw.githubusercontent.com/taernsietr/taernsietr/testing/ascii-profile.png" alt="cursed ascii profile pic">
 </div>
 
 ### 👾&nbsp; Bio
