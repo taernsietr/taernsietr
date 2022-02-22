@@ -43,4 +43,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taernsietr&layout=compact&theme=gruvbox"/>  
 </div>
-<sub<i>(nota: essas estatísticas representam apenas a quantidade de código nos repositórios, não minha familiariedade ou preferências.)</i></sub>
+<sub><i>(nota: essas estatísticas representam apenas a quantidade de código nos repositórios, não minha familiariedade ou preferências.)</i></sub>
