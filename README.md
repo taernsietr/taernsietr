@@ -1,12 +1,12 @@
 ## Olá, Mundo! Meu nome é Thalles.
-<div align="center">
+<div style="height: 300px;" align="center">
   <img src="https://raw.githubusercontent.com/taernsietr/taernsietr/testing/ascii-profile.png" alt="cursed ascii profile pic">
 </div>
 
-### 👾 Bio
+### 👾&nbsp; Bio
 🎓&nbsp; Atualmente, estou cursando Sistemas de Informação na Universidade Federal Rural do Rio de Janeiro.  
 💙&nbsp; Atuo como estagiário de desenvolvimento na [Blu]("https://www.blu.com.br")
-💜&nbsp; ... e assessor de projetos na empresa júnior [Signal Jr.](https://www.signaljunior.com.br").  
+💜&nbsp; ... e assessor de projetos na empresa júnior [Signal Jr.](https://www.signaljunior.com.br")  
 💻&nbsp; Sou apaixonado por tecnologia, código aberto e línguas humanas.  
 🎩&nbsp; I'm fluent in (American) English. I used to be a translator!  
 📞&nbsp; Sinta-se à vontade para falar comigo sobre qualquer coisa!  
@@ -18,8 +18,8 @@
 
   ---
 
-### 💻 Tecnologias
-<sub><i>(i.e. coisas com que eu tenho alguma familiaridade ou interesse de aprender)</i></sub>  
+### 💻&nbsp; Tecnologias
+<sub><i>(i.e. coisas com que eu tenho alguma familiaridade ou interesse de aprender.)</i></sub>  
 <div>
   <img align="center" style="width: 30px;" alt="I use Arch, BTW" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg"> ⬢ 
   <img align="center" style="width: 30px;" alt="Microsoft Windows" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"> ⬢ 
