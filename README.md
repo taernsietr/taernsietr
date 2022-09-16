@@ -1,8 +1,8 @@
 ## Olá, Mundo! Meu nome é Thalles.
 
 ### 👾&nbsp; Bio
-🎓&nbsp; Atualmente, estou cursando Sistemas de Informação na Universidade Federal Rural do Rio de Janeiro.  
-💜&nbsp; Assessor de projetos na empresa júnior [Signal Jr.](https://www.signaljunior.com.br)  
+🎓&nbsp; Atualmente, estou cursando Sistemas de Informação na Universidade Federal Rural do Rio de Janeiro (quinto período).  
+💜&nbsp; Ex-assessor de projetos na empresa júnior [Signal Jr.](https://www.signaljunior.com.br)  
 💻&nbsp; Sou apaixonado por tecnologia, código aberto e línguas humanas.  
 🎩&nbsp; I'm fluent in (American) English. I used to be a translator!  
 📞&nbsp; Sinta-se à vontade para falar comigo sobre qualquer coisa!  
@@ -17,21 +17,36 @@
 ### 💻&nbsp; Tecnologias
 <sub><i>(i.e. coisas com que eu tenho alguma familiaridade ou interesse de aprender.)</i></sub>  
 <div>
-  <img align="center" style="width: 30px;" alt="I use Arch, BTW" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg"> ⬢ 
-  <img align="center" style="width: 30px;" alt="Microsoft Windows" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"> ⬢ 
-  <img align="center" style="width: 30px;" alt="Vim" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg"> ⬢ 
-  <img align="center" style="width: 30px;" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"> ⬢ 
-  <img align="center" style="width: 30px;" alt="Rust" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"> ⬢ 
-  <img align="center" style="width: 30px;" alt="Ruby" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg"> ⬢ 
-  <img align="center" style="width: 30px;" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"> ⬢ 
-  <img align="center" style="width: 30px;" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"> ⬢ 
-  <img align="center" style="width: 30px;" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"> ⬢ 
-  <img align="center" style="width: 30px;" alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"> ⬢ 
-  <img align="center" style="width: 30px;" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"> ⬢ 
-  <img align="center" style="width: 30px;" alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"> ⬢ 
-  <img align="center" style="width: 30px;" alt="Rails" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg"> ⬢ 
-  <img align="center" style="width: 30px;" alt="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> ⬢ 
-  <img align="center" style="width: 30px;" alt="Processing" src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-plain.svg"> 
+  <h3>Linguagens</h3>
+  <img align="center" style="width: 30px;" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"><span> ■■■</span>
+  <br>
+  <img align="center" style="width: 30px;" alt="Rust" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg"><span> ■■</span>
+  <br>
+  <img align="center" style="width: 30px;" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"><span> ■</span>
+  <br>
+  <img align="center" style="width: 30px;" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"><span> ■</span>
+  <br>
+  <img align="center" style="width: 30px;" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"><span> ■</span>
+  <br>
+  <img align="center" style="width: 30px;" alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"><span> ■</span>
+  <br>
+  <img align="center" style="width: 30px;" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"><span> ■■■</span>
+  <br>
+  <img align="center" style="width: 30px;" alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"><span> ■■■</span>
+  <br>
+  <h3>Ambientes / Ferramentas</h3>
+  <img align="center" style="width: 30px;" alt="I use Arch, BTW" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg"><span> ■</span>
+  <br>
+  <img align="center" style="width: 30px;" alt="Microsoft Windows" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"><span> ■</span>
+  <br>
+  <img align="center" style="width: 30px;" alt="Vim" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg"><span> ■</span>
+  <br>
+  <h3>Frameworks</h3>
+  <img align="center" style="width: 30px;" alt="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><span> ■■</span>
+  <br>
+  <img align="center" style="width: 30px;" alt="Rails" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg"><span> ■</span>
+  <br>
+  <img align="center" style="width: 30px;" alt="Processing" src="https://github.com/devicons/devicon/blob/master/icons/processing/processing-plain.svg"><span> ■</span> 
 </div>
 
   ---
