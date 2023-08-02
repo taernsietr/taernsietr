@@ -3,7 +3,7 @@
 ## 👾&nbsp; Bio
 🎓&nbsp; Atualmente, estou cursando Sistemas de Informação na Universidade Federal Rural do Rio de Janeiro (sétimo período).  
 💜&nbsp; Ex-assessor de projetos na empresa júnior [Signal Jr.](https://www.signaljunior.com.br)  
-💜&nbsp; Membro voluntário do Programa de Educação Tutorial de Sistemas de Informação [PET-SI](https://pet-si.ufrrj.br)  
+🗺️&nbsp; Membro voluntário do Programa de Educação Tutorial de Sistemas de Informação [PET-SI](https://pet-si.ufrrj.br)  
 💻&nbsp; Apaixonado por tecnologia, código aberto e línguas humanas.  
 🎩&nbsp; Fluent in (American) English (*used to be a translator*)  
 
@@ -16,7 +16,6 @@
 
 ## 💻&nbsp; Tecnologias
 <div>
-  <h3>⌨ Linguagens</h3>
   <img align="center" style="width: 30px; margin-bottom: 3px;" alt="Rust" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg">
   <img align="center" style="width: 30px; margin-bottom: 3px;" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
   <img align="center" style="width: 30px; margin-bottom: 3px;" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
